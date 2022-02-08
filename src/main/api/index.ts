@@ -6,5 +6,5 @@ class Person {
 }
 
 const p = new Person()
-p.speak('Dante')
+p.speak('Dante Mattos')
 p.speak()
